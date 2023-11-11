@@ -2,6 +2,9 @@
 
 Welcome to the Tic-Tac-Toe Command Line Game! In this simple yet classic game, you are the "X" player, and your opponent is the computer, represented by "O". Enjoy a quick and engaging match with the computer, and see if you can outsmart it!
 
+![image](https://github.com/dxdelvin/TicTacToe_CommandLine/assets/61946291/cece7036-835d-42ce-9c8a-cbda05072d44)
+
+
 ## How to Play
 
 1. The game board consists of a 3x3 grid.
